@@ -1,0 +1,1 @@
+[{"line":12,"column":18,"stop_line":12,"stop_column":35,"path":"views.py","code":5001,"name":"Possible RCE:","description":"Possible RCE: [5001]: User specified data may reach a code execution sink","define":"views.operate_on_twos"}]
